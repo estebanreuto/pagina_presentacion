@@ -1539,8 +1539,8 @@
                         <div class="overlay"></div>
                     </div>
                     <div class="body">
-                        <h4>Landing Page corporativa</h4>
-                        <div class="meta">Páginas de presentación optimizadas • SEO técnico</div>
+                        <h4>Páginas de Presentación</h4>
+                        <div class="meta">Sitios web modernos y optimizados para mostrar tu negocio o marca de forma profesional.</div>
                         <div class="actions">
                             <button class="btn solid preview">Vista rápida</button>
                         </div>
