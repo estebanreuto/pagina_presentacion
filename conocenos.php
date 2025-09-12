@@ -1228,8 +1228,8 @@
     <div class="topbar">
         <div class="logo"><img src="./logo_vertix_sin_fondo.png" alt="Logo" /></div>
         <div class="brand">
-            VERTIX TECNOLOGY S.A.S.
-            <div class="slogan">Protegemos lo que Eres, Impulsamos lo que Serás</div>
+            VERTIX TECNOLOGY
+            <div class="slogan">El Punto más Alto en Desarrollo y Tecnología</div>
         </div>
         <div class="cta">
             <a href="index.php" class="btn">Inicio</a>
